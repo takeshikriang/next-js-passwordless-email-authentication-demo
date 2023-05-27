@@ -26,5 +26,7 @@ pnpm prisma-db-push
 
 3. Start a [local dev server](http://localhost:3000):
 ```
+pnpm install
+
 pnpm dev
 ```
